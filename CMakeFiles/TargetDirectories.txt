@@ -1,0 +1,3 @@
+/home/ruyiwei/PICO/CMakeFiles/edit_cache.dir
+/home/ruyiwei/PICO/CMakeFiles/rebuild_cache.dir
+/home/ruyiwei/PICO/CMakeFiles/PICO.dir
